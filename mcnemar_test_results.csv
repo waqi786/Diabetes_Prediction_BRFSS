@@ -1,0 +1,4 @@
+Model 1,Model 2,Chi-square,p-value,Significant
+Logistic Regression,Random Forest,2208.3265789084453,0.0,Yes
+Logistic Regression,XGBoost,2595.275469891057,0.0,Yes
+Random Forest,XGBoost,274.6624231782265,1.0934174438345973e-61,Yes

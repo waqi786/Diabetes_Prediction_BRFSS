@@ -1,0 +1,13 @@
+Test,Value
+Sample Size (Diabetic),39977
+Sample Size (Non-Diabetic),213703
+Mean BMI (Diabetic),31.80
+Mean BMI (Non-Diabetic),27.74
+Std BMI (Diabetic),7.33
+Std BMI (Non-Diabetic),6.26
+Shapiro-Wilk (Diabetic),0.914
+Shapiro-Wilk (Non-Diabetic),0.859
+T-test Statistic,-103.905
+T-test p-value,0.0000000000e+00
+Mann-Whitney U Statistic,"2,683,141,048"
+Mann-Whitney U p-value,0.0000000000e+00

@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC,MCC,Cohen Kappa,Specificity
+Logistic Regression,0.7298,0.3395,0.7556,0.4685,0.816,0.367,0.3208,0.725
+Random Forest,0.806,0.4172,0.5819,0.486,0.8191,0.3782,0.3704,0.8479
+XGBoost,0.8216,0.4443,0.5266,0.482,0.8234,0.3771,0.3752,0.8768

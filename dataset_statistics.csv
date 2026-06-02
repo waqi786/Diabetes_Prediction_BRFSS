@@ -1,0 +1,8 @@
+Metric,Value
+Total Samples,253680
+Total Features,21
+Diabetic Cases,39977 (15.8%)
+Non-Diabetic Cases,213703
+Diabetes Prevalence,15.80%
+Training Samples,202944
+Testing Samples,50736
