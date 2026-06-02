@@ -40,34 +40,6 @@ This framework allows the system not only to **predict diabetes risk** but also 
 
 ---
 
-## 📂 Repository Structure
-
-```
-Diabetes_Prediction_BRFSS
-│
-├── README.md
-├── requirements.txt
-├── diabetes_prediction.ipynb
-│
-├── scripts
-│   ├── analysis.py
-│   ├── models.py
-│   └── shap_analysis.py
-│
-├── data
-│   └── brfss_2015_diabetes.csv
-│
-├── results
-│   ├── roc_curves.png
-│   ├── confusion_matrix.png
-│   └── shap_summary_plot.png
-│
-└── paper
-    └── diabetes_prediction_paper.pdf
-```
-
----
-
 ## 🚀 Installation
 
 ### 1️⃣ Clone the repository
