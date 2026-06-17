@@ -15,7 +15,7 @@ This repository contains the complete code and research resources for the study:
 
 The aim of this project is to develop a **machine learning based predictive system** that can estimate diabetes risk using demographic, behavioral, and clinical health factors from the **BRFSS 2015 dataset** published by the CDC.
 
-This research combines three major components:
+This research combines three major components
 
 - Statistical hypothesis testing  
 - Supervised machine learning models  
