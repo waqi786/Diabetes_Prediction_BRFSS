@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Overview
+## 📌 Overview:
 
 This repository contains the complete code and research resources for the study:
 
