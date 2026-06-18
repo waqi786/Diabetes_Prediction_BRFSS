@@ -25,7 +25,7 @@ This framework allows the system not only to **predict diabetes risk** but also 
 
 ---
 
-## 🎯 Key Highlights:
+## 🎯 Key Highlights
 
 | Metric | Value |
 |------|------|
