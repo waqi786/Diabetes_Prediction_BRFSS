@@ -1,4 +1,4 @@
-# 🧠 Diabetes Risk Prediction using Machine Learning (BRFSS 2015)
+# 🧠 Diabetes Risk Prediction using Machine Learning
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18976614.svg)](https://doi.org/10.5281/zenodo.18976614)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7126--223X-green)](https://orcid.org/0009-0005-7126-223X)
